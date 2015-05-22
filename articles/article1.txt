@@ -1,0 +1,10 @@
+1
+APSU computer science student designs website
+Malek Hakim
+October 22, 2014, 9:18 p.m
+article
+tech
+hipsterwoman.jpg
+CLARKSVILLE, Tenn. – When someone asked Dr. Leong Lee, Austin Peay State University associate professor of computer science, to help redesign and re-program the Tennessee Academy of Science’s (TAS) website, he wondered if they were joking.<br>“I studied the requirements and realized that this would be a relatively big project,” Lee said. “This is a $75,000 professional level web development project involving feasibility study, frontend web interface design, backend database system design and web-database programming.”
+hipsterwomanthumb.jpg
+to help redesign and re-program the Tennessee Academy of Science’s (TAS) website, he wondered if they were joking.<br>“I studied the requirements and realized that this would be a

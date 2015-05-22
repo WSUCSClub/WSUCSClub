@@ -1,0 +1,10 @@
+6
+Crowdsourcing Taxonomy Creation
+Malek Hakim
+October 22, 2014, 9:18 p.m
+project
+tech
+crowdsourcing.png
+Our goal is to break down large projects into work that can be done in parallel microtasks. Parallel crowd algorithms enable hundreds of people to contribute at once. Breaking tasks into short (typically less than 1 minute) micro tasks makes it more attractive for people to make a contribution in their free time. A major application for crowd algorithm is using people to organize data. For example, given 100 travel tips, we can create a taxonomy that shows what the popular topics are, what topics are missing, and let's users navigate the data more easily. We implement crowd algorithms using simple, reusable task primitives that run on top of Amazon's Mechanical Turk (MTurk).
+crowdsourcingthumb.jpg
+Our goal is to break down large projects into work that can be done in parallel microtasks…
